@@ -1,4 +1,4 @@
-# 2022_Adelaide_Code_Club ʕ •ᴥ•ʔ
+# Adelaide Code Club    ʕ •ᴥ•ʔ
 
 A fortnightly datascience and R training club. Data generation in biology is only going to get bigger, so it's highly advantageous to learn how to manipulate data in a clean and reproducibile manner (not in Microsoft Excel!). These skills will be a huge boon to your candidature and beyond -- as they are highly sought after both in academnia and in industry. 
 
