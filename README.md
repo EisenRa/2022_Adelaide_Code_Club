@@ -9,7 +9,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 
 | Week | Date | Lesson |
 | :---: | :---: | :---: |
-| 1 | `2022_03_03` | [Intro & Git](Lessons/2022/2022_03_03_Git/readme.md) |
+| 1 | `2022_03_03` | [Intro & Git](Lessons/2022/2022_03_03_Intro_and_Git/readme.md) |
 | 2 |
 | 3 | 
 | 4 |
