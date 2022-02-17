@@ -10,7 +10,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | Week | Date | Lesson |
 | :---: | :---: | :---: |
 | 1 | `2022_03_03` | [Intro & Git](Lessons/2022/2022_03_03_Intro_and_Git/) |
-| 2 | `2022_03_17` | [Importing data]() |
-| 3 | `2022_03_31` | [.]() |
-| 4 | `2022_04_14` | [.]() |
-| 5 | `2022_03_28` | [.]() |
+| 2 | `2022_03_17` | [Intro to RStudio]() |
+| 3 | `2022_03_31` | [Importing tables]() |
+| 4 | `2022_04_14` | [TBD]() |
+| 5 | `2022_03_28` | [TBD]() |
