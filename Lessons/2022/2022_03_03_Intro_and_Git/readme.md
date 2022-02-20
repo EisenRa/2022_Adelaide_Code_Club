@@ -6,7 +6,7 @@ To view the presenation, [click here](https://EisenRa.github.io/2022_Adelaide_Co
 ## Getting set up/installing git
 
 ### Windows 10
-If you have a Windows machine, please follow (these)[https://www.windowscentral.com/install-windows-subsystem-linux-windows-10] instructions to install the Linux (Ubuntu) subsystem. 
+If you have a Windows machine, please follow [these](https://www.windowscentral.com/install-windows-subsystem-linux-windows-10) instructions to install the Linux (Ubuntu) subsystem. 
 
 Once done, open up the Ubuntu terminal and do the following:
 1) Type the following and hit enter to update your 'apt' software:
@@ -18,6 +18,6 @@ Once done, open up the Ubuntu terminal and do the following:
 
 ### Mac/Linux
 Macs come with a native terminal installed (with BASH), so to install git, we just have to do the following:
-1) Go to (this)[https://sourceforge.net/projects/git-osx-installer/files/git-2.23.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect] link and download/install git
+1) Go to [this](https://sourceforge.net/projects/git-osx-installer/files/git-2.23.0-intel-universal-mavericks.dmg/download?use_mirror=autoselect) link and download/install git
 2) Navigate to your temrinal and type/enter the following to check that it's working:
 `git version`
