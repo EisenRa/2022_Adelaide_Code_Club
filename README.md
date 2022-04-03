@@ -11,6 +11,6 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | :---: | :---: | :---: |
 | 1 | `2022_03_03` | [Intro & Git](Lessons/2022/2022_03_03_Intro_and_Git/) |
 | 2 | `2022_03_24` | [Intro to RStudio](Lessons/2022/2022_03_24_Intro_to_RStudio/) |
-| 3 | `2022_04_07` | [Importing & cleaning tables]() |
+| 3 | `2022_04_07` | [Intro to the Tidyverse & importing/cleaning tables]() |
 | 4 | `2022_04_21` | [TBD]() |
 | 5 | `2022_05_05` | [TBD]() |
