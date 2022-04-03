@@ -14,3 +14,8 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 3 | `2022_04_07` | [Intro to the Tidyverse & importing/cleaning tables]() |
 | 4 | `2022_04_21` | [TBD]() |
 | 5 | `2022_05_05` | [TBD]() |
+
+
+## List of 2022 attendees:
+
+`Ashleigh Sharrad, Brady Welsh, Brittany Hogben, Caitlin Mudge, Chloe Frick, Colin Sobek, Dawn Lewis, Elisabeth Williamson, Gina Guzzo, Lauren Werner, Matthew Rodie, Rhiannon Vaneck, Roberta Davidson, Shannon Kleeman, Stacey Dix, Tessa Manning, Vilma Perez, Vinura Silva, Xavier Roca Rada`
