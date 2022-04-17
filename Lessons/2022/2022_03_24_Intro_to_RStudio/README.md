@@ -4,3 +4,6 @@ To view the presenation, [click here](https://github.com/EisenRa/2022_Adelaide_C
 
 ## Before the session: 
 Please ensure you have R and RStudio installed on your laptop. Here is a link that has instructions for both Mac and Windows, https://rstudio-education.github.io/hopr/starting.html.
+
+## If you have a Mac computer:
+You'll need to install Xcode in order to install/compile some R packages: https://apps.apple.com/au/app/xcode/id497799835?mt=12
