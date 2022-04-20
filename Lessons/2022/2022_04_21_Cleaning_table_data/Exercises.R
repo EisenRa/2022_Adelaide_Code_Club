@@ -1,6 +1,14 @@
 ### Exercises for the second lessons on cleaning table data
 ###Raphael Eisenhofer 2022
 
+## REMINDER:
+# Here are some useful ways of getting around the R Studio (or even BASH terminal)
+# 'Tab' will try to autocomplete commands you are typing, saving you time!
+# Once you hit 'Tab', you can choose the option with 'up' or 'down' arrow
+# 'Ctrl + Enter' (or 'Control/Command + Enter' for Mac) will run the code from the line
+# that your cursor is on!
+
+
 ## Initial setup
 #Load libraries
 
@@ -22,7 +30,7 @@
 
 
 
-#2: Calculate the mean sepal_length for each species
+#2: Calculate the mean sepal_length for each species [hint: group_by() and summarise()]
 
 
-#3: Create a new column that is sepal_length * sepal_width
+#3: Create a new column that is sepal_length * sepal_width [hint: use mutate()]

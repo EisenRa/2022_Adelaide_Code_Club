@@ -45,4 +45,18 @@ df_NAs_fixed <- df_NAs_fixed %>%
                               date_collected = as.Date(date_collected)
                             )
 
-df_NAs_fixed
+#I realised that there is another road to get to where we want -- perhaps the better solution!
+#Here we are just mutating across all columns with the as.double() function. Non numbers seem
+#to be converted into proper NAs automatically!
+#Note: the c(1:5) tells across to target the first 5 columns (numbers in our data frame).
+df_NAs_fixed2 <- df %>%
+  mutate(
+    across(
+      c(1:5),
+      ~ as.double(.)
+    )
+  )
+
+
+
+
