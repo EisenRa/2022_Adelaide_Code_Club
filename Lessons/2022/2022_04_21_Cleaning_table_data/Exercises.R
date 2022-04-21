@@ -23,11 +23,10 @@
 #1.2: Create a character vector of the offending variable names
 
 
-#1.3: Use mutate and str_detect_all to rename the offending variables
+#1.3: Use mutate and str_replace_all to rename the offending variables
 
 
 #1.4: Check how many unique categories there are of 'species' again 
-
 
 
 #2: Calculate the mean sepal_length for each species [hint: group_by() and summarise()]
