@@ -8,5 +8,5 @@ Passcode: 2s*qP#aS
 I paused screen-share instead of recording this time :(
 
 Timestamps:
--Going through slides: 00:00:00 - 00:29:56
--Running through exercises 01:04:35 - end
+Going through slides: 00:00:00 - 00:29:56
+Running through exercises 01:04:35 - end
