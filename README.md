@@ -14,6 +14,8 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 3 | `2022_04_07` | [Intro to the Tidyverse & importing/cleaning tables](Lessons/2022/2022_04_07_Intro_to_Tidyverse_and_importing_cleaning_tables) |
 | 4 | `2022_04_21` | [Further cleaning of table data with dplyr](Lessons/2022/2022_04_21_Cleaning_table_data) |
 | 5 | `2022_05_05` | [Intro to ggplot2](Lessons/2022/2022_05_05_Intro_to_ggplot2) |
+| 6 | `2022_05_19` | TBD |
+| 7 | `2022_06_02` | TBD |
 
 
 ## List of 2022 attendees:
