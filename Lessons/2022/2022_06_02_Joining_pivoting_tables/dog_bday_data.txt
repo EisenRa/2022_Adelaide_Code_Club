@@ -1,0 +1,5 @@
+doge_name	century_of_birth	year_of_birth
+goldy	20	15
+apricot	20	19
+cupcake	20	20
+bruce	20	12

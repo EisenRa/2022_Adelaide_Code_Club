@@ -1,0 +1,9 @@
+dog_name	category	value
+bruce	daily_food_g	400
+bruce	daily_walk_km	2
+apricot	daily_food_g	200
+apricot	daily_walk_km	4
+cupcake	daily_food_g	150
+cupcake	daily_walk_km	3
+goldy	daily_food_g	1000
+goldy	daily_walk_km	10
