@@ -15,7 +15,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 4 | `2022_04_21` | [Further cleaning of table data with dplyr](Lessons/2022/2022_04_21_Cleaning_table_data) |
 | 5 | `2022_05_05` | [Intro to ggplot2](Lessons/2022/2022_05_05_Intro_to_ggplot2) |
 | 6 | `2022_05_19` | [ggplot2 continued](Lessons/2022/2022_05_19_ggplot2_continued) |
-| 7 | `2022_06_02` | TBD |
+| 7 | `2022_06_02` | [Tidy data and joining tables](Lessons/2022/2022_06_02_Joining_pivoting_tables) |
 
 
 ## List of 2022 attendees:
