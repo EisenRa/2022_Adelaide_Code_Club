@@ -16,7 +16,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 5 | `2022_05_05` | [Intro to ggplot2](Lessons/2022/2022_05_05_Intro_to_ggplot2) |
 | 6 | `2022_05_19` | [ggplot2 continued](Lessons/2022/2022_05_19_ggplot2_continued) |
 | 7 | `2022_06_02` | [Tidy data and joining tables](Lessons/2022/2022_06_02_Joining_pivoting_tables) |
-
+| 8 | `2022_06_16` | [Manipulating tables](Lessons/2022/2022_06_16_manipulating_tables) |
 
 ## List of 2022 attendees:
 
