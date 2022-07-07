@@ -17,6 +17,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 6 | `2022_05_19` | [ggplot2 continued](Lessons/2022/2022_05_19_ggplot2_continued) |
 | 7 | `2022_06_02` | [Tidy data and joining tables](Lessons/2022/2022_06_02_Joining_pivoting_tables) |
 | 8 | `2022_06_16` | [Manipulating tables](Lessons/2022/2022_06_16_manipulating_tables) |
+| 9 | `2022_07_07` | [rentrez + basic iteration](Lessons/2022/2022_07_07_rentrez_searching_paper_databases) |
 
 ## List of 2022 attendees:
 
