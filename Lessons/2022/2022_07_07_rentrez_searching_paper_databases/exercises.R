@@ -1,28 +1,31 @@
-# Install and load the rentrez package
-install.packages("rentrez")
-library(rentrez)
-library(tidyverse)
+# Install and load the rentrez package, and load tidyverse and glue
+
 
 # What databases are we able to search using rentrez?
-entrez_dbs()
 
 
-# Print a summary of the "sra" database
-entrez_db_summary(db = "sra")
+# Print a summary of the "pubmed" database. How many items are there?
 
 
-# What searchable terms to we have for the "sra" database?
-entrez_db_searchable(db = "sra")
+# What searchable terms to we have for the "pubmed" database?
 
 
-
-output <- entrez_search(db = "pubmed", term = "Eisenhofer R[AUTH] AND (ancient OR wombat)", retmax = 100)
-
-
-entrez_fetch(db = "pubmed", id = output, rettype = "abstract")
+# Search for all wombat-associated publications in pubmed (save it as a variable)
 
 
-year <- 1922:2022
+# Fetch the abstracts for your search. 
 
-year_searches <- glue("wombat AND {year}[PDAT]")
-                      
+
+# Create a vector with range 1952 to 2021
+
+
+# Use glue to create a list of search term for wombat AND year of publication
+
+
+#Combine the list of search terms with map_dbl() to iterate rentrez searches
+
+
+#Plot your results as a line graph using ggplot2
+
+
+#BONUS: compare the number of wombat publications through time to another animal of your choice
