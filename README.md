@@ -18,7 +18,10 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 7 | `2022_06_02` | [Tidy data and joining tables](Lessons/2022/2022_06_02_Joining_pivoting_tables) |
 | 8 | `2022_06_16` | [Manipulating tables](Lessons/2022/2022_06_16_manipulating_tables) |
 | 9 | `2022_07_07` | [rentrez + basic iteration](Lessons/2022/2022_07_07_rentrez_searching_paper_databases) |
+| 10 | `2022_07_28` | [iterative functions](Lessons/2022/2022_07_28_iterative_functions) |
+| 11 | `2022_08_11` | [TBA](Lessons/2022/) |
+| 12 | `2022_08_25` | [TBA](Lessons/2022/) |
 
 ## List of 2022 attendees:
 
-`Ashleigh Sharrad, Brady Welsh, Brittany Hogben, Caitlin Mudge, Chloe Frick, Colin Sobek, Dawn Lewis, Elisabeth Williamson, Gina Guzzo, Lauren Werner, Matthew Rodie, Rhiannon Vaneck, Roberta Davidson, Shannon Kleeman, Stacey Dix, Tessa Manning, Vilma Perez, Vinura Silva, Xavier Roca Rada`
+`Ashleigh Sharrad, Brady Welsh, Brittany Hogben, Caitlin Mudge, Chloe Frick, Colin Sobek, Dawn Lewis, Elisabeth Williamson, Gina Guzzo, Lauren Werner, Matthew Rodie, Rhiannon Vaneck, Roberta Davidson, Shannon Kleeman, Stacey Dix, Sonia Nath, Tessa Manning, Vilma Perez, Vinura Silva, Xavier Roca Rada`
