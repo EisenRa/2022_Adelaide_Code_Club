@@ -18,7 +18,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 7 | `2022_06_02` | [Tidy data and joining tables](Lessons/2022/2022_06_02_Joining_pivoting_tables) |
 | 8 | `2022_06_16` | [Manipulating tables](Lessons/2022/2022_06_16_manipulating_tables) |
 | 9 | `2022_07_07` | [rentrez + basic iteration](Lessons/2022/2022_07_07_rentrez_searching_paper_databases) |
-| 10 | `2022_07_28` | [iterative functions](Lessons/2022/2022_07_28_iterative_functions) |
+| 10 | `2022_07_28` | [Iterative functions](Lessons/2022/2022_07_28_iterative_functions) |
 | 11 | `2022_08_11` | [TBA](Lessons/2022/) |
 | 12 | `2022_08_25` | [TBA](Lessons/2022/) |
 
