@@ -20,7 +20,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 9 | `2022_07_07` | [rentrez + basic iteration](Lessons/2022/2022_07_07_rentrez_searching_paper_databases) |
 | 10 | `2022_07_28` | [Iterative functions](Lessons/2022/2022_07_28_iterative_functions) |
 | 11 | `2022_08_11` | [data.table](Lessons/2022/2022_08_11_data.table) |
-| 12 | `2022_08_25` | [TBA](Lessons/2022/) |
+| 12 | `2022_08_25` | [Manipulating data.tables](Lessons/2022/2022_08_25_manipulating_data.tables) |
 
 ## List of 2022 attendees:
 
