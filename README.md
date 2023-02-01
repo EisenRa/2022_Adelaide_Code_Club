@@ -22,6 +22,7 @@ Everyone. Even if you've not opened a terminal before! If you're a seasoned code
 | 11 | `2022_08_11` | [data.table](Lessons/2022/2022_08_11_data.table) |
 | 12 | `2022_08_25` | [Manipulating data.tables](Lessons/2022/2022_08_25_manipulating_data.tables) |
 | 13 | `2022_10_20` | [Lists](https://github.com/EisenRa/2022_Adelaide_Code_Club/tree/main/Lessons/2022/2022_10_20_lists) |
+| 14 | `2023_02_02` | [Introduction to Python](Lessons/2023/2023_02_02_intro_to_python) |
 
 ## List of 2022 attendees:
 
